@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Key to the kings cabinet-counsell. Shevving, the secret instructions of His Majesties evill-councellors to their agents, for first raising of armes against his honourable house of Parliament. Together, with their devices for drawing the peoples hearts to adhere to them; and the councels by them used, to uphold that new-sprung and unwarrantable act. Also, what meanes they did formerly, and still make use of, for the maintaining their armies; and linking that desperate faction in an undividable knot, tending to the destruction of His Majesty and His kingdomes. Published by authority, and entred according to order.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87707</idno><idno type="EEBO-CITATION">99872700</idno>
+  <idno type="VID">154689</idno>
+  <idno type="EEBO-PROQUEST">2240940815</idno>
+  
+            <idno type="STC">Wing K388</idno>
+            <idno type="STC">Thomason E4_9</idno>
+            <idno type="STC">ESTC R4572</idno>
+            <idno type="PROQUEST">99872700</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872700e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87707)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154689)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 1:E4[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Key to the kings cabinet-counsell. Shevving, the secret instructions of His Majesties evill-councellors to their agents, for first raising of armes against his honourable house of Parliament. Together, with their devices for drawing the peoples hearts to adhere to them; and the councels by them used, to uphold that new-sprung and unwarrantable act. Also, what meanes they did formerly, and still make use of, for the maintaining their armies; and linking that desperate faction in an undividable knot, tending to the destruction of His Majesty and His kingdomes. Published by authority, and entred according to order.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "August 2d".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154689:1"/>
+            <pb facs="tcp:154689:1"/>
+            <p>THE KEY TO THE Kings Cabinet-Counsell.</p>
+            <p>SHEVVING, The secret Instructions of His Majesties Evill-Councellors to their Agents, for first raising of Armes against his Honourable House of <hi>Parliament.</hi>
+            </p>
+            <p>TOGETHER, With their devices for drawing the peoples hearts to adhere to them; And the Councels by them used, to uphold that new-sprung and unwarran<g ref="char:EOLhyphen"/>table Act.</p>
+            <p>ALSO, What meanes they did formerly, and still make use of, for the maintaining their Armies; and link<g ref="char:EOLhyphen"/>ing that Desperate Faction in an undividable knot, tending to the destruction of His Majesty and His Kingdomes.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Published by Authority, and entred according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON, Printed by <hi>Bernard Alsop.</hi>
+            </p>
+            <p>1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154689:2"/>
+            <pb n="1" facs="tcp:154689:2"/>
+            <head>THE KEY TO THE King's Cabinet Councell.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Ere there in man no feare of God, no honour to his King, nor respect of Religion, or Coun<g ref="char:EOLhyphen"/>try; yet curiosity (the itching disease of active Spirits) inforceth a desire in him to know, as near as his Intellect giveth leave, such matters of importance, as occurre in his own or other states. Tis true, we are forbidden to dive into <hi>Arcana Dei, &amp; Arcana Imperij:</hi> but who liveth that faileth not in duty. If in this small Piece, which nice curiositie and desire of friends hath drawne from me, I erre in duty, relating these destructive passages; let my love to my Coun<g ref="char:EOLhyphen"/>try, and obligation to my friends excuse me. I shall flye no higher, nor begin my observations no further, then His Majestie▪ first putting the Commission of Array in action, and setting up His standard at <hi>Nottin<g ref="char:EOLhyphen"/>gham.</hi> The devices for drawing the people to him, and the Counsels then used, to uphold that new-sprung and unwarrantable Act.</p>
+            <p>First, for the Commission of Array, it must be made cleere by lear<g ref="char:EOLhyphen"/>ned Arguments on the Kings part, to some of the wiser sort of the Gen<g ref="char:EOLhyphen"/>try in those parts, where this Weed should be planted. And by subtle insinuation on the Weaker sort, that there was <hi>Ius Regis</hi> in the Com<g ref="char:EOLhyphen"/>mission of Array, Presidents of former Kings in like case produced, and a large Booke in defence thereof, compiled by a man of much more Learning then honesty, (Mr. <hi>R. H.)</hi> and for the greater lustre prin<g ref="char:EOLhyphen"/>ted
+<pb n="2" facs="tcp:154689:3"/> and divulged: So that by this Artifice a great part of the Gentry presently sided with his Majestie, the common sort of people, some through feare compelled, others by affection blindely led on, untill at <hi>Edge-hill</hi> many of them found the fruits of their vanities.</p>
+            <p>And not to digresse from our storie, give me leave to tell you that it was thought no small peece of Policie, in their best (of worst) coun<g ref="char:EOLhyphen"/>cellors, to cover the Kings Hostile act against the the five Memmbers, and to have it distilled into the eares of the people by some Agents for that purpose appointe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that his Majesties intentions towards them was no waies ill, but of a Royall inclination, to sist out truth in a Par<g ref="char:EOLhyphen"/>liamentarie wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e (as he supposed) And that before the House of Commons, without the least thought of violence to their persons, (al<g ref="char:EOLhyphen"/>though they contrarily conceived,) or to seek satisfaction for his (sup<g ref="char:EOLhyphen"/>posed wrong) And whether those speeches had been used concerning the governement of the Kingdome as his Majestie had been informed; with a desire to know the reasons of them, not so much to inflict a pu<g ref="char:EOLhyphen"/>nishment, as if in any thing he had failed, to receive lovingly their in<g ref="char:EOLhyphen"/>formation and Councells, and by the advice of the Parliament to give a happie todresse to the growing evills of the Kingdome.</p>
+            <p>This by many of those instruments was deeply protested to, as also that his Majesties person, notwithstanding his innocencie, was in dan<g ref="char:EOLhyphen"/>danger by a swarming multitude of un<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uly and giddy headed factious Brownists, Anabaptists, &amp;c which in a rude, robustuous, and a most un<g ref="char:EOLhyphen"/>paraleld way, sought the destruction of himself, his Royall Consort the Queen, and his posteritie,</p>
+            <p>Amongst the many peeces of Deceite they used this likewise was held none of the worst inventions; And as themselves say, was a main pl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t in upholding the Parliament, and drawing in store of money from the City of London, their onely prop, (as they tearmed it) therefore, they say, it was bus<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed into the eares of the most and abler sort of Citi<g ref="char:EOLhyphen"/>zens, that if they should freely and plentifully disburse their monies in this worke of Reformation▪ they should receive a double satisfacti<g ref="char:EOLhyphen"/>on, for the work finished, the Parliament intended by seyfing and ses<g ref="char:EOLhyphen"/>sing all mens men<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> estates, especially the Malignants, to make them all become dependants uppon the City of London, according to the now custome of Geneva, which (say they) at the first made shew of Re<g ref="char:EOLhyphen"/>formation
+<pb n="3" facs="tcp:154689:3"/> onely in Church Government, as now doth the Parliament, and the suppressing of the power of the Clergie; But after they had taken away the Bishops and the Spirituall jurisdiction, they soon after fell from the duty of loyall subjects, and took from the Duke of <hi>Savoy,</hi> to whose Sign<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ory the City of <hi>Geneva</hi> and parts adjacent did belong, both his yearly Revenew, his Title, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nterest.</p>
+            <p>This they thought certainly worked much in the Nobility, Gentry, and the better sort of people, as a matter much inducing to the altera<g ref="char:EOLhyphen"/>tion of Monarchicall government, and the laying of a farre heavier burthen upon the people, by this dependency, then any of the pres<g ref="char:EOLhyphen"/>sures formerly obtruded upon them by the King, or any of his Prede<g ref="char:EOLhyphen"/>cessors: much more of this businesse was divulged and blazed (if pos<g ref="char:EOLhyphen"/>sible it might have done it) to draw the hearts and affections of the people; from that they are so deeply obliged to honour and obey, as the greatest part under God of their welfare and protection, the High and Honourable Court of Parliament.</p>
+            <p>These fictions linck'd His Majesties then termed Guard of his per<g ref="char:EOLhyphen"/>son, not much inferiour to an Army, to the disposall of his too much unadvised Councell.</p>
+            <p>Neither was this all, for the ambitieus Clergy, by the instiga<g ref="char:EOLhyphen"/>tion of the then falling and decaying Bishops, and their strong hopes of their again rising glory, they very largely contributed (out of their perticular revenews) to the maintainance of this unhap<g ref="char:EOLhyphen"/>pily begun distraction.</p>
+            <p>After the Fight at <hi>Edge Hill,</hi> His Majesties partie though they had then much the worst of it, yet it was a great incouragement to them (considering their tye they had upon the people, which was but a slender one) that they were not utterly defeated, but were able to bring a part of their Army off. Therefore for a more glorious shew of a feigned Victory. And to draw the affections of the people towards them, Messengers must be forthwith sent to those parts, that were knowne to stand affected to their party. As also, to others whom they thought this supposed Victory might terrifie, or some private ends might work upon for a generall Thankesgiving and rejoycing, which was punctually performed.</p>
+            <pb n="4" facs="tcp:154689:4"/>
+            <p>Then were there selected out of His Majesties party men of the best ranck and quality, and those also that were most beloved, and had the greatest power in their Countries, these were sent with private Instru<g ref="char:EOLhyphen"/>ctions, drawn by the advise of His Majesties strongest Councell, and with a Declaration and Protestation of His Majesties sincere and cleare intentions concerning matters of Religion, His maintainance of the Rights and Priviledges of Parliament, the fundamentall Lawes of the Realme, the birth-right of his Subjects, their liberty and propriety.</p>
+            <p>Neither were many of the Nobility then with him, backwards in joyning with His Majesty in the said Protestation, with the offer of their lives and fortunes under their hands, for confirmation of the same: Which how much it took with the common people, may by the ensu<g ref="char:EOLhyphen"/>ing actions be easily perceived.</p>
+            <p>These Gentlemen thus sent, were likewise to intimate to their friends and acquaintance, that the Parliament at Westminster were absolutely over-awed by the Citizens of London, and most especially by the se<g ref="char:EOLhyphen"/>verall Sectaries there, who although few of them were of one opinion, (and as they reported of above threescore) yet like brethren in iniqui<g ref="char:EOLhyphen"/>ty, they joyned together, not onely to take away His Majesties Prero<g ref="char:EOLhyphen"/>gatives, but also Gods wordship, as of the Common Prayer Book, and the Ceremonies of the Church, which then strook deep in the mindes of the common sort of people, not having a capacity of so large an ex<g ref="char:EOLhyphen"/>tent, as to know the true ends of Reformation▪</p>
+            <p>And that all those Petitions presented to the Parliament by severall Counties, and with so many of the people to attend, and with so many thousand hands at them, were all or most of them drawne and penned by the Parliament Members of those Counties from whence they came, or by their instigation and solicitations, the severall petitioners were invited to these (as they termed them) unparaleld Parliamentary proceedings. Nor wanted their preaching Clergy incouragement by the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> sent, and other great ones, and much provoked by their declined Lords the Bishops, with a sad remembrance of the fat ambitious Cler<g ref="char:EOLhyphen"/>gies fall, in the Reformation of the Church in the time of <hi>Henry</hi> the 8. Having more feare of the like then of God, they highly inveigh in their Pulpits, and much mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in private, against the Sects and Schisme of the time, and not against them alone, but of the Honourable Parlia<g ref="char:EOLhyphen"/>ment, as Abettors and maintainers of them; that all Learning was now despised, and not in our Age to be esteemed, but trampled under foot, and nothing but ignorance and impudence cherished; and the meanest
+<pb n="5" facs="tcp:154689:4"/> of Tradesmen preaching and teaching in Holes an Tubs, were upheld and followed. <hi>(Which if true, why in holes and Tubs?)</hi> And the Ortho<g ref="char:EOLhyphen"/>doxe Divines whom formerly stood as Bulworks against Popery and all other Heresies and Schisme, discountenanced and imprisoned. Great pitie it is to see how these false and scandalous imputations, workes a<g ref="char:EOLhyphen"/>mongst the giddy headed multitude, who are turned with every blast.</p>
+            <p>Other Instructions also were sent to the Papists in severall Coun<g ref="char:EOLhyphen"/>ties for large Contributions, which by the Queenes Agents were strongly prosecuted, and with so much Art and cunning, that in a man<g ref="char:EOLhyphen"/>ner it took from them all their sences, yea the sence of their own con<g ref="char:EOLhyphen"/>fusion; which from their now deep ingagements, from which they cannot start, appeares to be little lesse. For from Contribution of mo<g ref="char:EOLhyphen"/>ney, they fell to a vowed assistance with life and estates, which many of them have already paid to the uttermost farthing, as a due recom<g ref="char:EOLhyphen"/>pence of their follies.</p>
+            <p>This was done by a fair shew and promise of tolleration of Reli<g ref="char:EOLhyphen"/>gion, and all preferment at Court: As indeed it was too true in part, for His Majesty, besides what favours he had formerly shewen (for her Majesties sake, as we suppose) did prefer divers to great places of trust and command under him, whom before were of no repute, or altoge<g ref="char:EOLhyphen"/>ther unknown in Court.</p>
+            <p>Neither was this all, for it was very confidently intimated unto them by these Agents, that the Parliament did not onely intend to abridge them of their Religion, and to sequester their estates, but (to use their own words) to use them as their friends the Bishops (in cut<g ref="char:EOLhyphen"/>ting off root and branch at once) either to banish them and theirs into other Countries, or by active power of their Parliament (if they ab<g ref="char:EOLhyphen"/>jured not their Religion, which (they said) they knew were more dea<g ref="char:EOLhyphen"/>rer to them then their lives, they should suffer death by a farre more just Law, then Queen <hi>Mary</hi> did cause divers of the Reformed Religion to dye. And that they thought it but Gods just judgement and revenge, for the blood of his faithfull servants.</p>
+            <p>And I am sure you will not conceive that the two famous Factions of <hi>Spain</hi> and <hi>France</hi> in our Court, were all this time idle; then it would have been suspected they receive their pensions for naught. I must give you a taste of their actions, I confesse, those of our English of the <hi>Spa<g ref="char:EOLhyphen"/>nish Faction</hi> moves not so swiftly as those of the <hi>French,</hi> yet more solid in dangerous designes.</p>
+            <pb n="6" facs="tcp:154689:5"/>
+            <p>Therefore at such time as His Majesty was much necessitated for want of money (as it is usually with him) his Army then ready to mutiny, and his Garrison Souldiers to plunder their Garrison Townes and so to quit them. The Spanish Faction propounded to His Maje<g ref="char:EOLhyphen"/>sties Councell, for a speedy supply of His Majesties urgent occasions, that it could be no prejudice to His Majesty, if the Kingdome of <hi>Ireland</hi> should be ingaged to the King of <hi>Spain,</hi> and that in the interim of the Treaty, the Catholickes of England should advance their proportion of money to a great height; And in truth this Proposition fell (if I may call it so) happily for the Kings Designes, though it were not intended for the good of him or his Kingdome, for this vain hope so besotted the Romish Catholicks, that they did lash forth their money plentifully. On the other side, the French Faction to crosse this, and knowing of what dangerous consequence it would be to France, if that Kingdome should fall into the hands of the Spaniard, did also propound; That if His Majestie should part with that Kingdome, which (they said) would much perplexe the Subjects of England and Scotland, and leave a hea<g ref="char:EOLhyphen"/>vie aspersion on His Majestie and Councell. That they would treat for a present supply of money, and ten thousand old Souldiers, for His Ma<g ref="char:EOLhyphen"/>jesties service, and further supply as occosion should require; So that the French might upon all events, have for their retreat, some of our small Islands or Forts in this Kingdome: And knowing that the Spa<g ref="char:EOLhyphen"/>nish Faction had already been afore-hand with them in Contribution, (fearing they should be accounted negligent servants) suddainly raised a proportionable summe of money for His Majesties use, to ballance with their Antagonists the Spanish Faction. Which bred delayes in the debate; of which did not the Paper take me off, I could give you a more full Relation both of these proceedings, and of matters of a dee<g ref="char:EOLhyphen"/>per reach; Which I shall hereafter, for the good of my Country, wil<g ref="char:EOLhyphen"/>lingly impart.</p>
+            <p>How destructive these courses and Counsels have been to His Maje<g ref="char:EOLhyphen"/>stie and Kingdomes, I leave to the censure of all judicious men, and the punishment of these Pests and Vipers, to the Honourable Court of Parliament. Whom God of his infinite goodnesse, I pray may guide and blesse in all their proceedings.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Printed according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
